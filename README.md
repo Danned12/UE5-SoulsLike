@@ -6,12 +6,10 @@ Early development souls-like combat system.
 
 Smooth and responsive player movement.
 
-Working single-target lock-on targeting system.
+Working single-target lock-on targeting system with smooth, easily adjustable camera behavior.
 
 Boss AI consumes player data (via Blackboard) to adapt behavior.
 
 In Development
 
-Camera adjustment system that automatically focuses on enemies to ensure clear visibility during combat.
-
-Boss animation playback that dynamically reacts to the player’s actions using Blackboard information.
+Boss behavior tree focused on observing and reacting to player actions.
